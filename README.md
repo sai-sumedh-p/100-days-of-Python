@@ -1,4 +1,4 @@
-//What is Python?
+What is Python?
 Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
 
 It is used for:
@@ -13,6 +13,8 @@ Python can be used alongside software to create workflows.
 Python can connect to database systems. It can also read and modify files.
 Python can be used to handle big data and perform complex mathematics.
 Python can be used for rapid prototyping, or for production-ready software development.
+
+
 Why Python?
 Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).
 Python has a simple syntax similar to the English language.
@@ -22,6 +24,8 @@ Python can be treated in a procedural way, an object-oriented way or a functiona
 Good to know
 The most recent major version of Python is Python 3, which we shall be using in this tutorial. However, Python 2, although not being updated with anything other than security updates, is still quite popular.
 In this tutorial Python will be written in a text editor. It is possible to write Python in an Integrated Development Environment, such as Thonny, Pycharm, Netbeans or Eclipse which are particularly useful when managing larger collections of Python files.
+
+
 Python Syntax compared to other programming languages
 Python was designed for readability, and has some similarities to the English language with influence from mathematics.
 Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses.
