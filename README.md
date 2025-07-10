@@ -1,34 +1,32 @@
-<h1 align="center">Hi 👋, I'm Sai Sumedh Pedarla</h1>
-<h3 align="center">"B.Tech Automation & Robotics | Blending Algorithms with Actuators — Engineering Tomorrow with Code, Circuits & Vision"</h3>
+What is Python?
+Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-sumedh-p&label=Profile%20views&color=0e75b6&style=flat" alt="sai-sumedh-p" /> </p>
+It is used for:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sai-sumedh-p" alt="sai-sumedh-p" /></a> </p>
+web development (server-side),
+software development,
+mathematics,
+system scripting.
+What can Python do?
+Python can be used on a server to create web applications.
+Python can be used alongside software to create workflows.
+Python can connect to database systems. It can also read and modify files.
+Python can be used to handle big data and perform complex mathematics.
+Python can be used for rapid prototyping, or for production-ready software development.
 
-- 🔭 I’m currently working on **Farming Robotics**
 
-- 🌱 I’m currently learning **Java,Machine learning**
+Why Python?
+Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).
+Python has a simple syntax similar to the English language.
+Python has syntax that allows developers to write programs with fewer lines than some other programming languages.
+Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.
+Python can be treated in a procedural way, an object-oriented way or a functional way.
+Good to know
+The most recent major version of Python is Python 3, which we shall be using in this tutorial. However, Python 2, although not being updated with anything other than security updates, is still quite popular.
+In this tutorial Python will be written in a text editor. It is possible to write Python in an Integrated Development Environment, such as Thonny, Pycharm, Netbeans or Eclipse which are particularly useful when managing larger collections of Python files.
 
-- 👯 I’m looking to collaborate on **App Development**
 
-- 🤝 I’m looking for help with **Machine Learning**
-
-- 📫 How to reach me **saisumedhpedarla@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1H7LtSpgHyUMH_tNLkCtu87iQuTIAiiiP/view?usp=sharing](https://drive.google.com/file/d/1H7LtSpgHyUMH_tNLkCtu87iQuTIAiiiP/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sai_sumedh_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sai_sumedh_p" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/sai-sumedh-pedarla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sai-sumedh-pedarla" height="30" width="40" /></a>
-<a href="https://instagram.com/sai_sumedh_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sai_sumedh_p" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-sumedh-p&show_icons=true&locale=en&layout=compact" alt="sai-sumedh-p" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai-sumedh-p&show_icons=true&locale=en" alt="sai-sumedh-p" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sai-sumedh-p&" alt="sai-sumedh-p" /></p>
+Python Syntax compared to other programming languages
+Python was designed for readability, and has some similarities to the English language with influence from mathematics.
+Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses.
+Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose.
